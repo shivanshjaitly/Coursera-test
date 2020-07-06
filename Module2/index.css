@@ -11,17 +11,12 @@ body{
     background-color: rgb(7, 15, 12);
 }
 h1{
-    color: rgb(235, 235, 235);
+    color: rgb(202, 34, 34);
     text-align: center ;
-    background-color: rgb(40, 132, 218);
-    width: 30%;
-    height: 50%;
-    justify-content: center;
-    font-size: 40px;
-   
-    margin: 12px 300px;
+ 
+
     font-family: 'Merienda One', cursive;
-    border: 4px solid rgb(128, 68, 11);
+    
     
 }
 .deserts{
